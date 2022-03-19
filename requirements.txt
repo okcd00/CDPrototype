@@ -1,2 +1,4 @@
+# config_parser
+yacs >= 0.1.8
 # pgsql_connector
 psycopg2 >= 2.8.6
