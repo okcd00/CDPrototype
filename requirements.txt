@@ -1,5 +1,9 @@
-# this is a PyTorch Prototype
+# this is a PyTorch prototype
 torch
+
+# we select pytorch_lightning as the training framework
+pytorch_lightning
+tensorboard
 
 # pgsql_connector
 psycopg2 >= 2.8.6
