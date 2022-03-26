@@ -1,12 +1,11 @@
 # this is a PyTorch prototype
 torch
 
-# we select pytorch_lightning as the training framework
-pytorch_lightning
-tensorboard
+pytorch_lightning  # training framework
+tensorboard  # monitoring training processing
 
-# pgsql_connector
-psycopg2 >= 2.8.6
+six  # checking python version
+psycopg2 >= 2.8.6  # pgsql_connector
 
 # config_parser
 yacs >= 0.1.8
